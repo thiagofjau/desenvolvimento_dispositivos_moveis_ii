@@ -33,4 +33,3 @@ Abaixo estão os links diretos para cada repositório individual contendo o cód
 * **Principais Conceitos:** Padrão arquitetural **MVVM**, desacoplamento de lógica com `ICommand`, navegação estruturada via `Shell` (`TabBar`) e padrão de projeto *Singleton* para o banco de dados.
 
 ---
-💡 *Portfólio de atividades desenvolvido por [Thiago Figueredo](https://github.com/thiagofjau).*
