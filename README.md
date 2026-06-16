@@ -24,7 +24,7 @@ Abaixo estão os links diretos para cada repositório individual contendo o cód
 * **Descrição:** Consulta meteorológica em tempo real baseada na cidade digitada ou na localização atual via GPS.
 * **Principais Conceitos:** Consumo de APIs REST com `HttpClient`, parsing de JSON com `Newtonsoft.Json`, serviços nativos de `Geolocation` e exibição de mapas via `WebView`.
 
-### 4. 🛒 [MauiMinhasCompras](https://github.com/thiagofjau/MauiMinhasCompras) 📊
+### 4. 🛒 [MauiMinhasCompras](https://github.com/thiagofjau/MauiAppMinhasCompras) 📊
 * **Descrição:** Gerenciamento e controle de listas de compras offline com atualização e buscas em tempo real.
 * **Principais Conceitos:** Banco de dados local com `SQLite`, operações CRUD assíncronas, sincronização automática de interface com `ObservableCollection<T>` e recurso *Pull-to-Refresh*.
 
