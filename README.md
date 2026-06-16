@@ -28,7 +28,7 @@ Abaixo estão os links diretos para cada repositório individual contendo o cód
 * **Descrição:** Gerenciamento e controle de listas de compras offline com atualização e buscas em tempo real.
 * **Principais Conceitos:** Banco de dados local com `SQLite`, operações CRUD assíncronas, sincronização automática de interface com `ObservableCollection<T>` e recurso *Pull-to-Refresh*.
 
-### 5. 🏋️‍♂️ [AppFit](https://github.com/thiagofjau/AppFit) 🏃‍♂️
+### 5. 🏋️‍♂️ [AppFit](https://github.com/thiagofjau/MauiAppFit) 🏃‍♂️
 * **Descrição:** Diário fitness completo para monitoramento e registro de treinos e atividades físicas.
 * **Principais Conceitos:** Padrão arquitetural **MVVM**, desacoplamento de lógica com `ICommand`, navegação estruturada via `Shell` (`TabBar`) e padrão de projeto *Singleton* para o banco de dados.
 
